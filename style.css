@@ -15,7 +15,7 @@ body {
 .navbar {
   padding: 15px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-  "Lucida Sans", Arial, sans-serif;
+    "Lucida Sans", Arial, sans-serif;
   background-color: #ac9fbb;
 }
 
@@ -56,4 +56,14 @@ body {
 .background-image {
   padding: 80px;
   background-image: url(./background-image/background-image1.jfif);
+}
+
+.subtitle {
+  float: right;
+  padding: 5px;
+  background-color: #ddfcad;
+  margin-right: 20px;
+  font-size: 28px;
+  font-family: cursive;
+  color: #582f0e;
 }
