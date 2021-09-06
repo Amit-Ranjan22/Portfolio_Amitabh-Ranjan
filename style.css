@@ -97,3 +97,18 @@ body {
   width: 15%;
 }
 
+/* giving font-size and right margin to h2 of div .AboutMe-SubHeading */
+.AboutMe-SubHeading h2 {
+  font-size: 40px;
+  margin-right: 4px;
+}
+
+/* giving float value,max-height,margin left and margin right to 
+   image of .About-Me-Content */
+.About-Me-Content img {
+  max-height: 200px;
+  margin-left: 0px;
+  float: left;
+  margin-right: 25px;
+}
+
