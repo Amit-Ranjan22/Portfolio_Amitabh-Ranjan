@@ -29,3 +29,25 @@ body {
   color: #582f0e;
   display: inline-block;
 }
+
+/* giving div with navbarDiv-links property like float 'right', padding,
+   margin,font-family and font-size . */
+.navbarDiv-links {
+  float: right;
+  padding-top: 15px;
+  margin-right: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+}
+
+/* giving li of .navbarDiv-links a display poerty of 'inline-block' and 
+   left margin */
+.navbarDiv-links ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+/* giving anchor tags of .navbarDiv-links a text color */
+.navbarDiv-links a {
+  color: #ffffff;
+}
