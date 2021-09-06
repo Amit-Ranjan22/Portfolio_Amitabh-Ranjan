@@ -1,0 +1,11 @@
+/* taking universal selector * for every element and giving it a box-sizing of 'border-box',padding 0 and magin 0 */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* giving whole body of html page a background color */
+body {
+  background-color: #d9dcd6;
+}
