@@ -58,6 +58,7 @@ body {
   background-image: url(./background-image/background-image1.jfif);
 }
 
+/* giving some properties values like float:right,padding,background-color etc to div .subtitle */
 .subtitle {
   float: right;
   padding: 5px;
@@ -67,3 +68,20 @@ body {
   font-family: cursive;
   color: #582f0e;
 }
+
+/* giving div with .conten a display property, width & margin */
+.content {
+  width: 100%;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+/* setting some property values to div .About-Me-Content like padding,margin,height etc */
+.About-Me-Content {
+  margin-bottom: 5px;
+  padding: 50px;
+  height: 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #dce1de;
+}
+
