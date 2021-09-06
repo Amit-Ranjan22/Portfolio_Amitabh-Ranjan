@@ -85,3 +85,15 @@ body {
   background-color: #dce1de;
 }
 
+/* adding some properties values to div .AboutMe-SubHeading like 
+   float:left, margin, text color, height width */
+.AboutMe-SubHeading {
+  float: left;
+  margin-bottom: 32px;
+  margin-right: 15px;
+  color: #582f0e;
+  border-right: solid black;
+  height: 225px;
+  width: 15%;
+}
+
