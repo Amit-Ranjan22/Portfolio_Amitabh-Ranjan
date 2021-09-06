@@ -51,3 +51,9 @@ body {
 .navbarDiv-links a {
   color: #ffffff;
 }
+
+/* adding a background image to div .background-image */
+.background-image {
+  padding: 80px;
+  background-image: url(./background-image/background-image1.jfif);
+}
