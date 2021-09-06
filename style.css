@@ -9,3 +9,23 @@
 body {
   background-color: #d9dcd6;
 }
+
+/* giving some values to navbar padding,font-family & a background   
+   color */
+.navbar {
+  padding: 15px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+  "Lucida Sans", Arial, sans-serif;
+  background-color: #ac9fbb;
+}
+
+/* giving .name div some padding,background color,some margin,font size,
+   text color and display position of inline-block */
+.name {
+  padding: 5px;
+  background-color: #ddbdd5;
+  margin-left: 20px;
+  font-size: 48px;
+  color: #582f0e;
+  display: inline-block;
+}
