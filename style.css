@@ -313,3 +313,20 @@ body {
   font-size: 24px;
   text-decoration: none;
 }
+
+/* giving background color to .footer */
+.footer {
+  background-color: #bfc0c0;
+}
+
+/* giving padding value of 10px and text-align:center to h2 element 
+   inside .footer */
+.footer h2 {
+  padding: 10px;
+  text-align: center;
+}
+
+/* giving a margin of 45% to button inside .footer */
+.footer button {
+  margin-left: 45%;
+}
