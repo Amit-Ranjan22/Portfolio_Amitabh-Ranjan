@@ -250,3 +250,27 @@ body {
   max-height: 100px;
   width: 100%;
 }
+
+/* giving background-color,padding & height to .ContactMe-Content  */
+.ContactMe-Content {
+  background-color: #d8dbe2;
+  padding: 50px;
+  height: 180px;
+}
+
+/* giving border,padding,width margin etc to .ContactMe-SubHeading */
+.ContactMe-SubHeading {
+  padding: 2px;
+  border-right: solid black;
+  width: 15%;
+  height: 120px;
+  float: left;
+  margin-top: 0px;
+  margin-right: 7px;
+}
+
+/* giving font size & text color to h2 inside .ContactMe-SubHeading */
+.ContactMe-SubHeading h2 {
+  font-size: 40px;
+  color: #582f0e;
+}
