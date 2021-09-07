@@ -148,3 +148,9 @@ body {
   background-color: #8f857d;
   display: inline-block;
 }
+
+/* giving height and width to image under Work1 */
+.Work1 img {
+  max-height: 500px;
+  width: 80%;
+}
