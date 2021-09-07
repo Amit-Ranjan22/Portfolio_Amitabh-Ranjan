@@ -135,3 +135,16 @@ body {
   border-right: solid black;
   width: 15%;
 }
+
+/* giving h2 of .Work-SubHeading a font-size and text color */
+.Work-SubHeading h2 {
+  font-size: 40px;
+  color: #582f0e;
+}
+
+/* giving .work1-heading a background-color and display attribute of 
+   inline block */
+.work1-heading {
+  background-color: #8f857d;
+  display: inline-block;
+}
