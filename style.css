@@ -274,3 +274,23 @@ body {
   font-size: 40px;
   color: #582f0e;
 }
+
+/* giving padding & margin to .ContactMe-Details */
+.ContactMe-Details {
+  padding-top: 20px;
+  margin-right: 120px;
+}
+
+/* giving padding & margin to .ContactMe-Ul  */
+.ContactMe-Ul {
+  padding-top: 20px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+/* giving background color & display property of inline block to 
+   .contact-info */
+.contact-info {
+  background-color: #aec3b0;
+  display: inline-block;
+}
