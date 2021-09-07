@@ -171,3 +171,9 @@ body {
   width: 40%;
   display: inline-block;
 }
+
+/* giving height & width to div .Work2 img{} */
+.Work2 img {
+  max-height: 100px;
+  width: 100%;
+}
