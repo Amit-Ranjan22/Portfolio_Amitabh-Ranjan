@@ -177,3 +177,25 @@ body {
   max-height: 100px;
   width: 100%;
 }
+
+/* giving some padding,width,margin & float right position to div 
+   .Work3 */
+.Work3 {
+  padding: 10px;
+  width: 40%;
+  margin-right: 50px;
+  float: right;
+}
+
+/* giving a background color and display property of inline block to 
+  .work3-heading  */
+.work3-heading {
+  background-color: #8f857d;
+  display: inline-block;
+}
+
+/* giving some height and widdth to image in div .Work3 */
+.Work3 img {
+  max-height: 100px;
+  width: 100%;
+}
