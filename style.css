@@ -154,3 +154,20 @@ body {
   max-height: 500px;
   width: 80%;
 }
+
+/* giving padding,width,margin float-right position to the div .
+   Work-2_3 */
+.Work-2_3 {
+  padding: 5px;
+  width: 80%;
+  margin-right: 2px;
+  float: right;
+}
+
+/* giving display property of inline block  and some padding and width 
+   to div Work2 */
+.Work2 {
+  padding: 10px;
+  width: 40%;
+  display: inline-block;
+}
