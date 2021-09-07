@@ -216,3 +216,16 @@ body {
   width: 40%;
   display: inline-block;
 }
+
+/* giving background color adn display property of inline-block to 
+   work4-heading */
+.work4-heading {
+  background-color: #8f857d;
+  display: inline-block;
+}
+
+/* giving height and width to image in .Work4 */
+.Work4 img {
+  max-height: 100px;
+  width: 100%;
+}
