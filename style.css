@@ -229,3 +229,24 @@ body {
   max-height: 100px;
   width: 100%;
 }
+
+/* giving float value,padding,width & margin to .Work5 */
+.Work5 {
+  padding: 10px;
+  width: 40%;
+  margin-right: 50px;
+  float: right;
+}
+
+/* giving background color & display property of inline-block to 
+   .work5-heading */
+.work5-heading {
+  background-color: #8f857d;
+  display: inline-block;
+}
+
+/* giving height & width to image inside Work5  */
+.Work5 img {
+  max-height: 100px;
+  width: 100%;
+}
