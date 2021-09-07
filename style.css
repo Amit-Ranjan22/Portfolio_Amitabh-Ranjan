@@ -199,3 +199,20 @@ body {
   max-height: 100px;
   width: 100%;
 }
+
+/* giving some padding,width margin and float value of right to 
+   .Work-4_5*/
+.Work-4_5 {
+  padding: 5px;
+  width: 80%;
+  margin-right: 2px;
+  float: right;
+}
+
+/* giving display property of inline block and some padding & width 
+   to Work4 */
+.Work4 {
+  padding: 10px;
+  width: 40%;
+  display: inline-block;
+}
