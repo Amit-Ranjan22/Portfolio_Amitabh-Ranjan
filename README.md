@@ -128,7 +128,34 @@ WHEN : "a" tag  with "img" tag inside it is created inside "div
 WHEN : a link to image for work5 is placed inside "img" tag.<br>
 WHEN : some style attributes are applied to every section,divs,img,p,h2,
        h3, & class inside style.css.
-       
+
+*(5) When I load the portfolio, I am presented with a section with the developer's contact details.*
+------
+It's considered done<br>
+------
+WHEN : a "footer" element is added  after the "main" element in index. 
+       html.<br>
+WHEN : a "div class='ContactMe-Content'" is created inside "footer".<br>
+WHEN : a "div class='ContactMe-SubHeading'" is created inside "div 
+       lass='ContactMe-Content'".<br>
+WHEN : "h2" tag is created inside "div class='ContactMe-SubHeading'".
+       <br>
+WHEN : a "div class='ContactMe-Details'" is created inside "div 
+       class='ContactMe-Content'".<br>
+WHEN : a "div class='ContactMe-Ul'" is created inside "div 
+       class='ContactMe-Details'".
+WHEN : 3 "li" is created inside "div class='ContactMe-Ul'" for 
+       phone-number, Email-address & github-id.<br>
+
+*(6) When I load the portfolio, I am presented with a section at bottom of the page which says "created by: 'developer's name'" & a "button" to scroll up the entire page.*
+------
+It's considered done<br>
+------
+WHEN : a "div class='footer'" is created at the bottom of "footer" 
+       element.<br>
+WHEN : a "h2" element si created inside "div class='footer'" which says "MAde by: developer's name".<br>
+WHEN : a 'anchor' tag is created inside "div class='footer'".<br>
+WHEN : a home 'button' is created inside the 'a' tag.
 
 
 
