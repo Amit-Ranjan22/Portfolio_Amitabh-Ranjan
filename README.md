@@ -94,8 +94,41 @@ WHEN : a "div class='work2-heading'" is created inside "div
 WHEN : a "h3" & "p" tag are created inside "div class='work2-heading'".
        <br>
 WHEN : "a" tag  with "img" tag inside it is created inside "div 
-       class='Work2'".<br>.
+       class='Work2'".<br>
 WHEN : a link to image for work2 is placed inside "img" tag.<br>
+
+WHEN : a "div class='Work3'" is created inside "section 
+       class='Work-2_3'".<br>
+WHEN : a "div class="work3-heading" is created inside "div 
+       class='Work3'".<br>
+WHEN : a "h3" & "p" tag is created inside "div class="work3-heading".
+       <br>
+WHEN : "a" tag is created inside "div class=Work3'" with an "img" tag 
+       inside it.<br>
+WHEN : a link to image for work3 is placed inside "img" tag.<br>
+WHEN : a "section class='Work-4_5'" is created inside "div 
+       class='Work-Content' id=Work'".<br>
+WHEN : a "div class='Work4'" is created inside "section 
+       class='work-4_5'".<br>
+WHEN : a "div class='work4-heading'" is created inside "div 
+       class='Work4'".<br>
+WHEN : a "h3" & "p" tag are created inside "div class='work4-heading'".
+       <br>
+WHEN : "a" tag  with "img" tag inside it is created inside "div 
+       class='Work4'".<br>
+WHEN : a link to image for work4 is placed inside "img" tag.<br>
+WHEN : a "div class='Work5'" is created inside "section 
+       class='work-4_5'".<br>
+WHEN : a "div class='work5-heading'" is created inside "div 
+       class='Work5'".<br>
+WHEN : a "h3" & "p" tag are created inside "div class='work5-heading'".
+       <br>
+WHEN : "a" tag  with "img" tag inside it is created inside "div 
+       class='Work5'".<br>
+WHEN : a link to image for work5 is placed inside "img" tag.<br>
+WHEN : some style attributes are applied to every section,divs,img,p,h2,
+       h3, & class inside style.css.
+       
 
 
 
