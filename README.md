@@ -72,4 +72,32 @@ WHEN : something is written about the developer inside "p" tag.
 ------
 It's considered done<br>
 ------
+WHEN : a "div class='Work-Content' id=Work'" is created inside "div 
+       class='content'".<br>
+WHEN : a "div class='Work-SubHeading'" is created inside "div 
+       class='Work-Content' id=Work'".<br>
+WHEN : "h2" tag is created inside "div class='Work-SubHeading'".<br>
+WHEN : another "div class='Work1'" is created inside "div 
+       class='Work-Content' id=Work'" just below "div class='Work-SubHeading'".<br>
+WHEN : a "div class='work1-heading' is created inside "div 
+       class='Work1'".<br>
+WHEN : "h3" and "p" tags are created inside "div 
+       class='work1-heading'<br>
+WHEN : "img" tag is created inside "a" tag with link to image about 
+       work1.<br>
+WHEN : a "section class='Work-2_3'" is created inside "div 
+       class='Work-Content' id=Work'" just below "div class='Work1'"<br>
+WHEN : a "div class='Work2'" is created inside "section 
+       class='work-2_3'".<br>
+WHEN : a "div class='work2-heading'" is created inside "div 
+       class='Work2'".<br>
+WHEN : a "h3" & "p" tag are created inside "div class='work2-heading'".
+       <br>
+WHEN : "a" tag  with "img" tag inside it is created inside "div 
+       class='Work2'".<br>.
+WHEN : a link to image for work2 is placed inside "img" tag.<br>
+
+
+
+
 
