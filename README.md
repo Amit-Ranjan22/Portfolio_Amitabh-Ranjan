@@ -157,7 +157,26 @@ WHEN : a "h2" element si created inside "div class='footer'" which says "MAde by
 WHEN : a 'anchor' tag is created inside "div class='footer'".<br>
 WHEN : a home 'button' is created inside the 'a' tag.
 
+*(7) When I click one of the links in the navigation then the UI scrolls to the corresponding section.*
+------
+It's considered done<br>
+------
+WHEN : "href" attribute is provided to all the "li" inside "div 
+       class="navbarDiv-links" and same href attribute name is provided to the corrosponding "div".
 
+*(8) When I click on the images of the applications then I am taken to that deployed application*
+------
+It's considered done<br>
+------
+WHEN : anchor 'a' tag inside the corrosponding "div' is having link to  
+       the deployed application as "href" attribute.
+
+*(9)When I am presented with the developer's first application then that application's image should be larger in size than the others*
+------
+It's considered done<br>
+------
+WHEN : .Work1 img {} is given a  max-height: 500px & width: 80% in 
+        style.css.
 
 
 
