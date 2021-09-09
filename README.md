@@ -19,7 +19,7 @@ To create a web application from scratch which satisfy the below given acceptanc
 
 The goal to create a web application from scratch will be met when :
 
-*(1) When I load the portfolio, I am presented with the developer's name, links to sections about them, their work, and how to contact them.*
+*(1) When the employer load the portfolio, he is presented with the developer's name, links to sections about them, their work, and how to contact them.*
 ------
 It's considered done<br>
 ------
@@ -39,7 +39,7 @@ WHEN : some style attributes are given to universal selector "*" and
 WHEN : some style properties are added in style.css for "nav" bar, 
        the two "div" and "li" mentioned above.
 
-*(2) When I load the portfolio, I am presented with a background image and a unique subtitle.*
+*(2) When the employer load the portfolio, he is presented with a background image and a unique subtitle.*
 ------
 It's considered done<br>
 ------
@@ -52,7 +52,7 @@ WHEN : some style attributes are given to the above mentioned "div" &
 WHEN : a background image is linked to "div class="background-image" in 
        style.css.
 
-*(3) When I load the portfolio, I am presented with a developer's recent photo and something written about him/her.*
+*(3) When the employer load the portfolio, he is presented with a developer's recent photo and something written about him/her.*
 ------
 It's considered done<br>
 ------
@@ -68,7 +68,7 @@ WHEN : "img" tag is created inside "div class="About-Me-Content" with
        the link to developr's image.<br>
 WHEN : something is written about the developer inside "p" tag.
 
-*(4) When I load the portfolio, I am presented with the developer's work applications screen-shots.*
+*(4) When the employer load the portfolio, he is presented with the developer's work applications screen-shots.*
 ------
 It's considered done<br>
 ------
@@ -129,7 +129,7 @@ WHEN : a link to image for work5 is placed inside "img" tag.<br>
 WHEN : some style attributes are applied to every section,divs,img,p,h2,
        h3, & class inside style.css.
 
-*(5) When I load the portfolio, I am presented with a section with the developer's contact details.*
+*(5) When the employer load the portfolio, he is presented with a section with the developer's contact details.*
 ------
 It's considered done<br>
 ------
@@ -147,7 +147,7 @@ WHEN : a "div class='ContactMe-Ul'" is created inside "div
 WHEN : 3 "li" is created inside "div class='ContactMe-Ul'" for 
        phone-number, Email-address & github-id.<br>
 
-*(6) When I load the portfolio, I am presented with a section at bottom of the page which says "created by: 'developer's name'" & a "button" to scroll up the entire page.*
+*(6) When the employer load the portfolio, he is presented with a section at bottom of the page which says "created by: 'developer's name'" & a "button" to scroll up the entire page.*
 ------
 It's considered done<br>
 ------
@@ -157,21 +157,21 @@ WHEN : a "h2" element si created inside "div class='footer'" which says "MAde by
 WHEN : a 'anchor' tag is created inside "div class='footer'".<br>
 WHEN : a home 'button' is created inside the 'a' tag.
 
-*(7) When I click one of the links in the navigation then the UI scrolls to the corresponding section.*
+*(7) When the employer click one of the links in the navigation then the UI scrolls to the corresponding section.*
 ------
 It's considered done<br>
 ------
 WHEN : "href" attribute is provided to all the "li" inside "div 
        class="navbarDiv-links" and same href attribute name is provided to the corrosponding "div".
 
-*(8) When I click on the images of the applications then I am taken to that deployed application*
+*(8) When the employer click on the images of the applications then he is taken to that deployed application*
 ------
 It's considered done<br>
 ------
 WHEN : anchor 'a' tag inside the corrosponding "div' is having link to  
        the deployed application as "href" attribute.
 
-*(9)When I am presented with the developer's first application then that application's image should be larger in size than the others*
+*(9)When the employer is presented with the developer's first application then that application's image should be larger in size than the others*
 ------
 It's considered done<br>
 ------
